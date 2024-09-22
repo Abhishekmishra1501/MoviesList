@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "title": "Avatar(2009)",
+        "Distributor": "20th Century Fox",
+        "Amount":"$2,787,965,087",
+        "thumbnail":"./images/avatar.jpg"
+    },
+    {
+        "id":2,
+        "title": "Titanic(1997)",
+        "Distributor": "20th Century Fox",
+        "Amount":"$2,187,463,944",
+        "thumbnail":"./images/titanic.jpg"
+    },
+    {
+        "id":3,
+        "title": "Star wars: the Force Awakens (2015)",
+        "Distributor": "Walt Disney Studios Motion Pictures",
+        "Amount":"$2,068,223,624",
+        "thumbnail":"./images/starwar.jpg"
+    },
+    {
+        "id":4,
+        "title": "Avengers Infinity War (2018)",
+        "Distributor": "Walt Disney Studios Motion Pictures",
+        "Amount":"$2,048,359,754",
+        "thumbnail":"./images/avengers.jpg"
+    },
+    {
+        "id":5,
+        "title": "Jurassic World(2015)",
+        "Distributor": "Universal Picturres Pictures",
+        "Amount":"$1,671,713,208",
+        "thumbnail":"./images/jurassic.jpg"
+    }
+]
